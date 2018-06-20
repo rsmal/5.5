@@ -3,12 +3,12 @@
 }
 
 
-body {
+.kasia {
 	margin: 0 auto;
 	background-color: #555;
 }
 
-h1, p, .paragraph{
+.devKasia, p, .paragraph{
 	text-align: center;
 	color: #fff;
 }
